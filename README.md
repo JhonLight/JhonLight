@@ -1,4 +1,4 @@
-### Oiii eu sou o Jhon Light, criador de telinhas
+### Oiii eu sou o Jhon Light, criador de sites completos
 
 - 🔭 Estudando Front-End 
 - 🌱 Conhecimento em
