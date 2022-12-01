@@ -1,6 +1,10 @@
-### Oiii eu sou o Jhon Light, criador de sites completos
+### Oi sou o Jhon Light, desenvolvedor de sites
 
-- 🔭 Estudando Front-End 
+- 🔭 Estudando testes unitários e criação de componetes
+  <div style="display: inline_block">
+    <img align="center" alt="Testes" height="60" width="60" src="https://miro.medium.com/max/600/1*veOyRtKTPeoqC_VlWNUc5Q.webp">
+     <img align="center" alt="storybook" margin="10" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" />
+  </div>
 - 🌱 Conhecimento em
   <div style="display: inline_block"><br>
   <img align="center" alt="Jhony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
